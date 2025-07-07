@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1b2fe990c2a3d4c9464f9f5cef873f, type: 3}
+  m_Name: PAGES #08
+  m_EditorClassIdentifier: 
+  _name: Page #08
+  _description: FOLLOWS
+  _prefab: {fileID: 2272079504970951255, guid: 08fcf718b6f176742a793b739a5e054b, type: 3}
+  _sprite: {fileID: 21300000, guid: fa363b0d452f2ae44b8cb256ac383d37, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef1b2fe990c2a3d4c9464f9f5cef873f, type: 3}
+  m_Name: PAGES #04
+  m_EditorClassIdentifier: 
+  _name: Page #04
+  _description: ALWAYS WATCH. NO EYES
+  _prefab: {fileID: 6121987757508939422, guid: 6a4dd56d902459a4284dfc840f9e9a05, type: 3}
+  _sprite: {fileID: 21300000, guid: f6ebbdfd3e335b745aa96e66120133d3, type: 3}

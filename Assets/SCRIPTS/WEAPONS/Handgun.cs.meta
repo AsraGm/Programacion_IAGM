@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 67bf56a4e2ac1a248a7b9954c036f4e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bulletPrefab: {instanceID: 0}
+  - shootPoint: {instanceID: 0}
+  - ammoText: {instanceID: 0}
+  - P_Shoot: {instanceID: 0}
+  - bulletHoleDecal: {fileID: 2412682592380378611, guid: 718e4e42e7b161847b2edd30a937b36d,
+      type: 3}
+  - audioSource: {instanceID: 0}
+  - shootSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

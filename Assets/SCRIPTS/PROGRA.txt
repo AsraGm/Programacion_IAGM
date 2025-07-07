@@ -1,0 +1,8 @@
+min 10 cuartos con puertas
+las peustas se abern con llaves
+1 cuarto es el final (no se abre sin las otras puertas)
+matar enemigos check cuarto (min 8)
+
+LODS
+OC https://www.youtube.com/watch?v=DRsGt4OFQvU
+
